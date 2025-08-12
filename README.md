@@ -1,4 +1,4 @@
-# uptrail-internship-programme
+# Uptrail-Internship-Programme
 Jupyter Notebook Files
 These are my projects for each week of the Uptrail Internship Programme.
 
