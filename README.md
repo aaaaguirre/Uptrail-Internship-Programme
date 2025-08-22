@@ -4,3 +4,4 @@ These are my projects for each week of the Uptrail Internship Programme.
 
 # 05/08/2025 - Completed Week 1 Project
 # 12/08/2025 - Completed Week 2 Project
+# 22/08/2025 - Completed Week 3 Project
